@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+Target 'AllExcludingTests' in project 'Aggregate'
+➜ Explicit dependency on target 'GoFileManager-product' in project 'GoFileManager'
+Target 'GoFileManager-product' in project 'GoFileManager' (no dependencies)
